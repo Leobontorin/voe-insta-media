@@ -1,19 +1,7 @@
 {
   "_regras": "Banco VOE. 'por_arquivo' = legenda casada com a arte (usada 1x e removida). Sem entrada la, robo usa 'legendas' em rodizio via 'proxima'. Copy: sem percentuais sem fonte, sem 'venda garantida', faturamento != lucro.",
   "proxima": 0,
-  "por_arquivo": {
-    "ChatGPT Image 20 de set. de 2026, 11_42_33.png": {
-      "texto": "Vendeu. O fiscal precisa acompanhar. 🧾\n\nComanda, NFC-e, estoque e financeiro no mesmo lugar. A emissão fiscal faz parte do fluxo da venda, não é um sistema à parte.\n\nAgende uma demonstração. Link na bio.",
-      "hashtags": [
-        "#VOE",
-        "#VoeTecnologia",
-        "#NFCe",
-        "#Fiscal",
-        "#Restaurantes",
-        "#Bares"
-      ]
-    }
-  },
+  "por_arquivo": {},
   "legendas": [
     {
       "texto": "A venda não termina quando o cliente compra. 🔁\n\nMarketing, venda, acesso, consumo, estoque, financeiro, CRM e BI. Cada etapa gera dados que ajudam a construir a próxima venda.\n\nAgende uma demonstração. Link na bio.",
