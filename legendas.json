@@ -1,6 +1,6 @@
 {
   "_regras": "Banco VOE. 'por_arquivo' = legenda casada com a arte (usada 1x e removida). Sem entrada la, robo usa 'legendas' em rodizio via 'proxima'. Copy: sem percentuais sem fonte, sem 'venda garantida', faturamento != lucro.",
-  "proxima": 9,
+  "proxima": 10,
   "por_arquivo": {},
   "legendas": [
     {
